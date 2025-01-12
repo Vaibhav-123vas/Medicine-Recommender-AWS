@@ -16,5 +16,6 @@ A Medicine Recommendation System in machine learning (ML) is a software applicat
 7. **User Interface**: The system provides a user-friendly interface for healthcare professionals, pharmacists, or patients to interact with. This interface allows users to input patient information, view recommended medications, explore explanations for recommendations, and adjust parameters if necessary.
 
 8. **Integration with Healthcare Systems**: The recommendation system can be integrated with existing healthcare information systems, such as electronic medical records (EMRs) or pharmacy management systems, to streamline the medication selection process and ensure seamless adoption by healthcare providers.
-
+9. Deployment on Render:
+https://medicine-recommender-aws-6.onrender.com/predict
 .
